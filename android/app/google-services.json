@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "376158740790",
+    "firebase_url": "https://headquaters-fd3a2.firebaseio.com",
+    "project_id": "headquaters-fd3a2",
+    "storage_bucket": "headquaters-fd3a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376158740790:android:68af11252b1f3d83475397",
+        "android_client_info": {
+          "package_name": "com.dassani.shop_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376158740790-nv0c0f5encp0h25e2tscsam21ak7o5p6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dassani.shop_delivery",
+            "certificate_hash": "0d3c068db20911f30f161f675412fbcd34ab2ca0"
+          }
+        },
+        {
+          "client_id": "376158740790-2eh7vvhdj4vhodasrsd24q3gvgska1tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoHvV5NMQxWzneyed8MX4u1nTGqvt8_os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376158740790-2eh7vvhdj4vhodasrsd24q3gvgska1tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
